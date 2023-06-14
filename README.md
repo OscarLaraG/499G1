@@ -1,17 +1,17 @@
 # Tales of Tourists
 
-Build Instructions for Tales of Tourists - Frontend
+# Build Instructions for Tales of Tourists - Frontend
 
 Note: This document is for building from a Mac OS machine. Not deployed.
 
-Important First Steps
+# ***Important First Steps***
 
 You must have xCode installed on your Mac, along with the iOS Simulator.
 You should test by opening the simulator to make sure it is working before running the project.
 We used VSCode to code, and run the project. However, any IDE should work.
 On VSCode, navigate to extensions and install : Flutter (Dart-Code.flutter), and Dart (Dart-Code.dart-code). These extensions will have an official blue tick checkmark.
 
-Installing flutter
+# Installing flutter
 
 Our application uses the Flutter framework (https://docs.flutter.dev/get-started/install/macos).
 
@@ -22,7 +22,7 @@ Flutter doctor - highlights any missing packages, for android warnings you can i
 Close terminal fully, re-open and run flutter doctor. If it does not work, flutter was not installed correctly, follow the video extremely carefully!
 
 
-Downloading Github Files
+# Downloading Github Files
 
 A link to our Github Repository that will allow you to download the files can be found here: https://github.com/faustollapa/499G1
 
@@ -30,7 +30,7 @@ Click on the Code drop down menu > SSH > Download zip.
 
 From this point, remember where you store the project folder. (Desktop works fine, anywhere will do)
 
-Running the Project
+# Running the Project
 
 Open VSCode, and open the folder that holds the project. Command + O , in the VSCode homepage.
 
